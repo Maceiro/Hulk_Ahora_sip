@@ -1,0 +1,15 @@
+/home/laptop/Escritorio/testing_hulk_II/bin/Debug/net6.0/testing_hulk
+/home/laptop/Escritorio/testing_hulk_II/bin/Debug/net6.0/testing_hulk.deps.json
+/home/laptop/Escritorio/testing_hulk_II/bin/Debug/net6.0/testing_hulk.runtimeconfig.json
+/home/laptop/Escritorio/testing_hulk_II/bin/Debug/net6.0/testing_hulk.dll
+/home/laptop/Escritorio/testing_hulk_II/bin/Debug/net6.0/ref/testing_hulk.dll
+/home/laptop/Escritorio/testing_hulk_II/bin/Debug/net6.0/testing_hulk.pdb
+/home/laptop/Escritorio/testing_hulk_II/obj/Debug/net6.0/testing_hulk.csproj.AssemblyReference.cache
+/home/laptop/Escritorio/testing_hulk_II/obj/Debug/net6.0/testing_hulk.GeneratedMSBuildEditorConfig.editorconfig
+/home/laptop/Escritorio/testing_hulk_II/obj/Debug/net6.0/testing_hulk.AssemblyInfoInputs.cache
+/home/laptop/Escritorio/testing_hulk_II/obj/Debug/net6.0/testing_hulk.AssemblyInfo.cs
+/home/laptop/Escritorio/testing_hulk_II/obj/Debug/net6.0/testing_hulk.csproj.CoreCompileInputs.cache
+/home/laptop/Escritorio/testing_hulk_II/obj/Debug/net6.0/testing_hulk.dll
+/home/laptop/Escritorio/testing_hulk_II/obj/Debug/net6.0/ref/testing_hulk.dll
+/home/laptop/Escritorio/testing_hulk_II/obj/Debug/net6.0/testing_hulk.pdb
+/home/laptop/Escritorio/testing_hulk_II/obj/Debug/net6.0/testing_hulk.genruntimeconfig.cache
